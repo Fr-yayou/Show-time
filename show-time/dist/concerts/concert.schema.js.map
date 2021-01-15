@@ -1,0 +1,1 @@
+{"version":3,"file":"concert.schema.js","sourceRoot":"","sources":["../../src/concerts/concert.schema.ts"],"names":[],"mappings":";;;AAAA,qCAAqC;AAExB,QAAA,aAAa,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAC;IAC7C,YAAY,EAAE,MAAM;IACpB,UAAU,EAAE,MAAM;IAClB,IAAI,EAAE,MAAM;IACZ,KAAK,EAAE,MAAM;IACb,WAAW,EAAE,MAAM;CACtB,CAAC,CAAA"}
